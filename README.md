@@ -4,6 +4,6 @@
 
 ## 原理
 
-### 安装  "monaco-editor-nls": "^3.0.0" 版
+### 安装  "monaco-editor-nls": "^3.0.0" 
 
-### 然后通过 webpack 或vite 打包时对 monaco-editor 目录下的nls.js的源码进行更改即可。
+### 然后通过 webpack 或vite 打包时对 monaco-editor 目录下的 monaco-editor/esm/vs/nls.js 的源码进行更改即可。
